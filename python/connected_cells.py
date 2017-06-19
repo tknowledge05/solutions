@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/connected-cell-in-a-grid
+
 import Queue
 
 n = int(raw_input())
